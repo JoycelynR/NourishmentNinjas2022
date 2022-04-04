@@ -3,5 +3,5 @@ Team proect for HackHPC@ADMI22 that adresses food insecurity in North Carolina. 
 # Resources
 Python, Jupiter Notebooks CloudyCluster, Google Colab, Excel
 # Team Members
--Andrianina Raharijao
+
 jouce
