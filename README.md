@@ -3,5 +3,9 @@ Team proect for HackHPC@ADMI22 that adresses food insecurity in North Carolina. 
 # Resources
 Python, Jupiter Notebooks CloudyCluster, Google Colab, Excel
 # Team Members
+- Lenasha Williams
+- Joycelyn Rouse
+- Kevin Rodriguez
+- Eyad Kathir
+- Jasmine Trapier
 
-jouce
