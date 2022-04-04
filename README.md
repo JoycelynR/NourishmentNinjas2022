@@ -8,4 +8,6 @@ Python, Jupiter Notebooks CloudyCluster, Google Colab, Excel
 - Kevin Rodriguez
 - Eyad Kathir
 - Jasmine Trapier
-
+# Mentors
+- Rebecca Caldwell
+- Hector Santiago
