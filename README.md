@@ -4,7 +4,4 @@ Team proect for HackHPC@ADMI22 that adresses food insecurity in North Carolina. 
 Python, Jupiter Notebooks CloudyCluster, Google Colab, Excel
 # Team Members
 -Andrianina Raharijao
-Ayomide Olasupo
-Christopher D.Buck
-John Cabrera
-Sofiyah Afolabi
+jouce
